@@ -6,3 +6,9 @@ This is the first of of many edits to this repository. I have used this before b
 
 #
 Im gonna add a new sentence. ajndioawndoawnuidoaqmoiwadmnio9wa
+
+#Add, commit, push
+
+adding whatever u want to upload
+
+add the file, or files 
